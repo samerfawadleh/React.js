@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Main project/node_modules
+/Main project/.pnp
+/Main project/.pnp.js
+
+# testing
+/Main project/coverage
+
+# production
+/Main project/build
+
+# misc
+/Main project/.DS_Store
+/Main project/.env.local
+/Main project/.env.development.local
+/Main project/.env.test.local
+/Main project/.env.production.local
+
+/Main project/npm-debug.log*
+/Main project/yarn-debug.log*
+/Main project/yarn-error.log*
+
+/Main project/.firebase
+/Main project/.firebaserc
+/Main project/firebase.json
